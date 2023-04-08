@@ -1,0 +1,49 @@
+Hero Title: Refreshingly Nuclear - Nuka Cola
+
+Tagline: "The Thirst Zapper!"
+
+Call to Action Button: "Get Your Nuka Cola Today!"
+
+Features Section:
+
+    Unique Flavor: Nuka Cola's proprietary blend of 17 different fruit essences gives it a taste unlike any other soda on the market.
+    Radiant Energy: Infused with just the right amount of radiation, Nuka Cola will leave you feeling energized and ready to take on the wasteland.
+    Vintage Charm: With its classic design and iconic logo, Nuka Cola is a beloved relic of pre-war Americana.
+    Variety Pack: Nuka Cola comes in a variety of flavors, including Nuka Cherry, Nuka Quantum, and Nuka Grape.
+
+Product Details Section:
+
+    Ingredients: Nuka Cola is made with pure, filtered water, high fructose corn syrup, caramel color, phosphoric acid, natural flavors, and just a touch of radiation.
+    Nutritional Information: Each 12-ounce serving of Nuka Cola contains 140 calories, 35 grams of sugar, and 20 millirems of radiation.
+    Serving Suggestions: Nuka Cola is best enjoyed ice cold, straight from the bottle or poured over a tall glass of ice.
+    Availability: Nuka Cola can be found in vending machines throughout the wasteland, as well as at select retailers in major cities.
+
+COLOR
+
+  Red and Blue: Use a bold red (#FF0000) as your primary color, and a bright blue (#007FFF) as an accent color. This color scheme will create a striking contrast that is sure to grab visitors' attention.
+
+  Retro Americana: To play up the vintage charm of Nuka Cola, you could use a color palette inspired by classic American soda fountains. Think soft pastels like baby blue (#89CFF0), dusty pink (#FDBCB4), and pale yellow (#FFFF99).
+
+  Futuristic Neon: If you want to emphasize the radioactive energy of Nuka Cola, consider using a palette of bright neon colors like hot pink (#FF69B4), electric blue (#00FFFF), and lime green (#00FF00). This color scheme will give your website a bold, futuristic feel.
+
+HOW
+
+  Red and Blue:
+
+    Use the bold red color for your website's background, and the bright blue as an accent color for buttons, headlines, and other important elements.
+    Consider using white or off-white text to make it stand out against the red background.
+    This color scheme would work well if you want to create a bold, eye-catching website that emphasizes the energy and excitement of Nuka Cola.
+
+  Retro Americana:
+
+    Use a soft, pastel-colored background for your website, and accent it with darker shades of the same colors.
+    Consider using a classic font, like something you might see on a 1950s soda fountain menu, to create a vintage feel.
+    This color scheme would work well if you want to emphasize the nostalgia and Americana of Nuka Cola.
+    https://coolors.co/89cff0-fdbcb4-ffff99-002e5d-a21520-cc9900
+
+  Futuristic Neon:
+
+    Use a dark background, like black or dark gray, and accent it with bright, neon colors.
+    Consider using a futuristic font, like something you might see in a sci-fi movie, to create a high-tech feel.
+    This color scheme would work well if you want to emphasize the futuristic, sci-fi elements of Nuka Cola.
+    https://coolors.co/ff69b4-00ffff-00ff00-ff1493-008b8b-00ff7f
