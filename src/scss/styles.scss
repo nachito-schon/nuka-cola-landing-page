@@ -1,1 +1,42 @@
 @import "bootstrap/scss/bootstrap";
+
+$display-font-weight: bold;
+
+@import "bootstrap";
+
+$light-red: #FDBCB4;
+$red: #A21520;
+$light-yellow: #FFFF99;
+$primary-font: Montserrat, sans-serif;
+$highlight-font: Lora, serif;
+
+body {
+  background-color: $light-red;
+  font-family: $primary-font;
+}
+
+.navbar-toggler, .navbar-toggler:active, .navbar-toggler:focus {
+  outline: none!important;
+  border: none;
+  box-shadow: none;
+}
+
+.menu-btn {
+  color: white;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: $highlight-font;
+}
+
+.btn-vintage, .btn-vintage:hover, .btn-vintage:active, .btn-vintage:focus {
+  font-family: $highlight-font;
+  font-weight: bold;
+  color: $light-yellow;
+  background-color: $red!important;
+  outline: none!important;
+  border: none!important;
+  border-radius: 0;
+}
