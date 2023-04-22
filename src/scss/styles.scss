@@ -6,11 +6,14 @@ $display-font-weight: bold;
 
 $light-red: #FDBCB4;
 $red: #A21520;
+$light-blue: #89CFF0;
+$blue: #002E5D;
 $light-yellow: #FFFF99;
+$yellow: #CC9900;
 $primary-font: Montserrat, sans-serif;
 $highlight-font: Lora, serif;
 
-body {
+body, .navbar {
   background-color: $light-red;
   font-family: $primary-font;
 }
@@ -27,16 +30,65 @@ body {
   font-weight: bold;
 }
 
-h1 {
+.nav-link {
+  font-family: $primary-font;
+  color: white;
+}
+
+.nav-link:hover {
+  color: $red;
+}
+
+h1, h2 {
   font-family: $highlight-font;
 }
 
-.btn-vintage, .btn-vintage:hover, .btn-vintage:active, .btn-vintage:focus {
+.btn-vintage {
   font-family: $highlight-font;
   font-weight: bold;
   color: $light-yellow;
+  border-radius: 0;
+}
+
+.btn-vintage, .btn-vintage:hover, .btn-vintage:active, .btn-vintage:focus {
   background-color: $red!important;
   outline: none!important;
   border: none!important;
-  border-radius: 0;
+}
+
+.features-section {
+  background-color: $light-blue;
+  color: $blue;
+
+  .icon {
+    font-size: 4rem;
+    font-weight: bold;
+  }
+}
+
+.product-details-section {
+  background-color: $light-yellow;
+  color: $yellow;
+}
+
+.carousel-indicators {
+  align-items: center;
+  gap: 1rem;
+
+  button {
+    background-color: $yellow!important;
+    height: 15px!important;
+    width: 15px!important;
+    border-radius: 50%;
+  }
+
+  .active {
+    background-image: url("../assets/cap.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent!important;
+    height: 35px!important;
+    width: 35px!important;
+    border-radius: 0;
+  }
 }
