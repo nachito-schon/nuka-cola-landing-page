@@ -1,4 +1,4 @@
-# Nuka-Cola Landing Page - work in progress
+# Nuka-Cola Landing Page
 Landing page for the ficticious cola drink brand from the Fallout video-game series built with [Bootstrap](https://getbootstrap.com/).
 
 The main goal for this project is for me to learn **Bootstrap**.
