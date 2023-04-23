@@ -30,13 +30,13 @@ body, .navbar {
   font-weight: bold;
 }
 
-.nav-link {
+.nav-link, .nav-link:visited {
   font-family: $primary-font;
-  color: white;
+  color: white!important;
 }
 
 .nav-link:hover {
-  color: $red;
+  color: $red!important;
 }
 
 h1, h2 {
@@ -73,12 +73,12 @@ h1, h2 {
 
 .carousel-indicators {
   align-items: center;
-  gap: 1rem;
+  gap: 1.75rem;
 
   button {
     background-color: $yellow!important;
-    height: 15px!important;
-    width: 15px!important;
+    height: 20px!important;
+    width: 20px!important;
     border-radius: 50%;
   }
 
@@ -87,8 +87,55 @@ h1, h2 {
     background-size: contain;
     background-repeat: no-repeat;
     background-color: transparent!important;
-    height: 35px!important;
-    width: 35px!important;
+    height: 50px!important;
+    width: 50px!important;
     border-radius: 0;
+  }
+}
+
+.last-call-section {
+  background-color: $light-blue;
+}
+
+.footer {
+  background-color: $red;
+  color: $light-red;
+
+  h4 {
+    font-family: $highlight-font;
+  }
+
+  a, a:visited, button {
+    color: $light-red!important;
+  }
+
+  a:hover {
+    color: white!important;
+  }
+
+  input, input:focus {
+    background-color: $light-red;
+    color: $red;
+    border: none;
+    border-radius: 0;
+    outline: none!important;
+    box-shadow: none;
+  }
+
+  input::placeholder {
+    color: $red;
+  }
+
+  button {
+    font-family: $highlight-font;
+    background-color: $yellow;
+    color: $light-yellow!important;
+    border-radius: 0;
+    border: none;
+  }
+
+  button:hover, button:active {
+    background-color: $yellow!important;
+    color: white!important;
   }
 }
