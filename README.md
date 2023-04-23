@@ -7,4 +7,6 @@ I wanted to achieve a **modern landing page** design, with a nice hero section, 
 
 Of course, layout is fully responsive.
 
-**[Check it out!](https://nachito-schon.github.io/nuka-cola-landing-page/)**
+**[CHECK IT OUT!](https://nachito-schon.github.io/nuka-cola-landing-page/)**
+
+![nuka-cola](https://user-images.githubusercontent.com/85847402/233860809-dfa121c6-d6bd-4596-950e-ce57d0d65bac.jpg)
