@@ -3,7 +3,7 @@ Landing page for the ficticious cola drink brand from the Fallout video-game ser
 
 The main goal of this project is for me to learn **Bootstrap**.
 
-I wanted to achieve a **modern landing page** design, with a nice hero section, a navigation bar with a menu that turns to drop-down in mobile screens, a couple "features" sections and a footer.
+Layout was previously designed with **Figma**. I wanted to achieve a **modern landing page** design, with a nice hero section, a navigation bar with a menu that turns to drop-down in mobile screens, a couple "features" sections and a footer.
 
 Of course, layout is fully responsive.
 
